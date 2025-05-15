@@ -1,8 +1,8 @@
-# GoodReads Book Recommendation
+# GoodReads Recommendation System
 
 ## Summary
 
-The GoodReads Book Recommendation project aims to create a personalized system that helps users discover new books based on their individual tastes and preferences. By leveraging data from Goodreads, such as user ratings and book shelf information, the system generates book suggestions that are highly relevant to each user’s unique reading habits.
+The GoodReads Recommendation System aims to create a personalized system that helps users discover new books based on their individual tastes and preferences. By leveraging data from Goodreads, such as user ratings and book shelf information, the system generates book suggestions that are highly relevant to each user’s unique reading habits.
 
 The recommendation engine combines collaborative filtering and content-based filtering techniques. Collaborative filtering analyzes patterns in which books user have in shelves and how they rate it, suggesting titles that similar users have enjoyed. Content-based filtering focuses on book metadata, such as genre, author, and other attributes, to recommend books with similar characteristics to the ones a user has rated highly. By combining these methods, the system ensures that recommendations are personalized, taking into account both the user’s direct preferences and the characteristics of the books themselves.
 
