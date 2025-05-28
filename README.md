@@ -1,5 +1,7 @@
 # GoodReads Recommendation System
 
+[![Visits Badge](https://badges.pufler.dev/visits/bumbot-hub/Goodreads_Book_Recomendation)](https://badges.pufler.dev)
+
 ## Summary
 
 The GoodReads Recommendation System aims to create a personalized system that helps users discover new books based on their individual tastes and preferences. By leveraging data from Goodreads, such as user ratings and book shelf information, the system generates book suggestions that are highly relevant to each user’s unique reading habits.
