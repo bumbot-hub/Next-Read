@@ -1,4 +1,4 @@
-# Next Read [![Visits Badge](https://badges.pufler.dev/visits/bumbot-hub/Goodreads_Book_Recomendation)](https://badges.pufler.dev)
+# Next Read [![Visits Badge](https://badges.pufler.dev/visits/bumbot-hub/Next-Read)](https://badges.pufler.dev)
 
 ## Summary
 
