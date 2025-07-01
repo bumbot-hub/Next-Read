@@ -4,6 +4,7 @@ import pandas as pd
 
 from src.preprocessor import Preprocessor
 
+
 class DataManager:
     def __init__(
         self, books_path, book_tags_path, tags_path, user_data_path, dataset_path
