@@ -1,4 +1,4 @@
-# Next Read [![Visits Badge](https://badges.pufler.dev/visits/bumbot-hub/Next-Read)](https://badges.pufler.dev)
+# Next Read ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=bumbot-hub.Next-Read)
 
 ## Summary
 
