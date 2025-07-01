@@ -1,4 +1,5 @@
-# Next Read ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=bumbot-hub.Next-Read)
+# Next Read 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=bumbot-hub.Next-Read)
 
 ## Summary
 
