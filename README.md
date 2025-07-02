@@ -1,5 +1,7 @@
 # Next Read 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=bumbot-hub.Next-Read)
+![](https://api.visitorbadge.io/api/VisitorHit?user=bumbot-hub&repo=Next-Read)
+
+
 
 ## Summary
 
