@@ -57,8 +57,6 @@ class DataManager:
 
         dataset = data.merge(self._prepared_tags, on="book_id", how="left")
 
-        # Add preprocessing
-
         return dataset
 
     def _create_user_dataset(self):
@@ -85,8 +83,6 @@ class DataManager:
         data.drop(columns=["additional_authors"], inplace=True)
 
         dataset = data.merge(self._prepared_tags, on="book_id", how="left")
-
-        # Add preprocessing
 
         return dataset
 
